@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 based ventures</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 17:28:57 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/helloworld/</link>
+      <pubDate>Sun, 09 Aug 2020 17:28:57 +0800</pubDate>
+      
+      <guid>/post/helloworld/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Portfolio</title>
@@ -35,7 +45,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>For all business enquiries, please email us at business[at]based.ventures. Thank you.</description>
+      <description>Twitter: @BasedVentures
+Email: business[at]based.ventures</description>
     </item>
     
   </channel>
